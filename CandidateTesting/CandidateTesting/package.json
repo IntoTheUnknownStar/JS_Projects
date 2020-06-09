@@ -1,0 +1,9 @@
+{
+  "name": "candidate-testing",
+  "version": "0.0.0",
+  "description": "CandidateTesting",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
