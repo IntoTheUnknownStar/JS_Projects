@@ -1,0 +1,9 @@
+{
+  "name": "scrabble-scorer",
+  "version": "0.0.0",
+  "description": "scrabbleScorer",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

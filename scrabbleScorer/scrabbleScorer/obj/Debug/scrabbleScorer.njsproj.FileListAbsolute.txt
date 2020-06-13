@@ -1,0 +1,2 @@
+C:\Users\Aaron Amos\source\repos\scrabbleScorer\scrabbleScorer\obj\Debug\scrabbleScorer.njsproj.CoreCompileInputs.cache
+C:\Users\Aaron Amos\source\repos\scrabbleScorer\scrabbleScorer\bin\Microsoft.NodejsTools.WebRole.dll
